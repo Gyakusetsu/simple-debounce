@@ -5,7 +5,7 @@
 
 ## Installation
 
-    $ npm install simple-debounce
+    $ npm i @gyakusetsu/simple-debounce
 
 ## Example
 
