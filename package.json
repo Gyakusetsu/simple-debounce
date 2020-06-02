@@ -1,0 +1,22 @@
+{
+  "name": "@gyakusetsu/simple-debounce",
+  "version": "1.0.0",
+  "description": "Simple delayed function call from repeated function calls (e.g. user search textbox).",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gyakusetsu/simple-debounce.git"
+  },
+  "keywords": [
+    "debounce"
+  ],
+  "author": "Reymar Clemente",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gyakusetsu/simple-debounce/issues"
+  },
+  "homepage": "https://github.com/Gyakusetsu/simple-debounce#readme"
+}
